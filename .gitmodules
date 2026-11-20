@@ -37,7 +37,8 @@
 	url = https://github.com/KhronosGroup/Vulkan-Loader.git
 [submodule "thirdparty/moltenvk"]
 	path = thirdparty/moltenvk
-	url = https://github.com/KhronosGroup/MoltenVK.git
+	url = https://github.com/n-elnouby/MoltenVK.git
+	branch = ios-cmake-support
 [submodule "thirdparty/vulkan-memory-allocator"]
 	path = thirdparty/vulkan-memory-allocator
 	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
